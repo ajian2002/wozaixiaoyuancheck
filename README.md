@@ -10,7 +10,7 @@
 - 在[qmsg](https://qmsg.zendee.cn/index.html) 官网根据其要求登录获得唯一key,填写于本项目下的qmsg_token.txt文件中,不要多余的空格,换行等
 - 安装微信电脑版,使用抓包软件打开我在校园小程序,获得访问token填写于wexin_token.txt文件中,要求同上
 - 抓包具体方法参看[链接](https://github.com/Chaney1024/wozaixiaoyuan),很详细
-- 本项目需要python3环境以及pip安装request库
+- 本项目需要python3环境以及pip安装requests库
 - 运行本项目的1.py文件即可
 ``` 
 python3 1.py
